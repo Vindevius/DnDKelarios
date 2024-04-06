@@ -1,3 +1,10 @@
+---
+title: House Rules
+draft: false
+tags:
+---
+ 
+
 1. Improved Critical Hits: The 2nd dice is max damage instead of doubling damage. (Ex: 1d8 = 8 dmg)
 2. Use potions as a Bonus Action instead of an Action (unless you are giving it to a downed player).
 3. Point of No Return: Making 0 hp matter.

@@ -1,3 +1,8 @@
+---
+title: Torture
+draft: true
+tags:
+---
 The character or NPC is proficient in causing all types of pain, both physical and psychological to captives. Torture relies on knowing the physiology of the victim, how to use tools of the trade and some psychology.
 
 The torturer pits his knowledge of pain infliction (Int) and psychological torment (Cha) against the victim’s physical (Con) and psychological (Cha) fortitude.
