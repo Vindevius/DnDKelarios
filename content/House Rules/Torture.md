@@ -1,6 +1,6 @@
 ---
 title: Torture
-draft: true
+draft: false
 tags:
 ---
 The character or NPC is proficient in causing all types of pain, both physical and psychological to captives. Torture relies on knowing the physiology of the victim, how to use tools of the trade and some psychology.
