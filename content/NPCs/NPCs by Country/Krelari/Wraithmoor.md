@@ -1,0 +1,3 @@
+- Ruins of Thanatos
+	- Alvodra
+		- a red dracolich (previously a blue dracolich) that was originally defeated by Einar the Enforcer and Katerina Petrova. Alvodra was resurrected using the body of an adult red dragon. She serves Morthadius and has cleared the path back to the barrier holding Morthadius in the Shadowfell. Alvodra was able to destroy the secondary barrier keeping Morthadius from leaving the area around the barrier.
