@@ -13,17 +13,18 @@ tags:
 4. In order to hide casting a spell, roll a sleight of hand check against a DC of 10 + the spell’s level. It is still possible for a single creature to see it based on the creature’s passive perception.
 5. Inspiration can also be used to seek inspiration from the DM for the current situation. Inspiration is also a d24 dice.
 6. Additional Bonus Actions
-	1. Intimidate (Wisdom DC 10+Wis Save)
-	2. Feint (deceive enemy, Wisdom DC 10+Wis Mod)
+	1. Intimidate (Wisdom DC 10+Wis Save or Intimidation check)
+	2. Feint (Wisdom DC 10+Wis Mod or Deception check)
 7. Daggerheart Inspired System.
 	- Each time a player rolls a d20, the player will roll with fear or with hope. A player rolls with fear on odd numbers and with hope on even numbers. This is based on the dice roll before any modifiers. When a player rolls with fear, the DM gains 1 fear token. The DM can only have up to 10 fear tokens at a time. When a player rolls with hope, the player gains 1 hope token. Players can have up to 5 hope tokens at a time. The DM also has hope tokens for any friendly NPCs, up to 10 hope tokens.
 	- The Token System works as follows:
 		- The DM's token currency deals in action tokens and fear tokens. An action token is gained when a player takes a turn. These tokens can be used to activate a creature. The DM can also spend two action tokens to create one fear token.
 		- Fear tokens are used for more interesting abilities. One fear token can be spent to interrupt a player's turn to do a DM turn. Two fear tokens can be spent to use a lair action. Fear tokens can also be spent to increase the tension of a scene or add a d6 to a roll.
 		- Hope tokens are similar to fear tokens for the players. Hope tokens can be spent to decrease the tension of a scene. Two hope tokens can be spent on something larger or more difficult. For example, a hope token can be spent to add a d6 to a roll or to gain one spell slot of level 3 or below. For spell slots above 4th level, an extra hope is spent for each level, up to 7th level for a total of all five hope.
+			- Hope can also be spent to recharge a class ability at the DM's discretion. For example, a barbarian's rage that is reset on a long rest would need 3 hope, while a fighter's action surge that is reset on a short rest would need 2 hope.
 	- Flow of Combat:
 		- Combat starts with each side rolling 1d20 for initiative, using the highest modifier for each side. If any player or creature has advantage on initiative, then that side rolls with advantage. If the DM goes first, only 1 boss or 2 creatures can be activated before the players' turn. If it is an ambush or surprise on either side, initiative is not rolled, and combat continues from that point.
-		- On the players' turn, any player or friendly NPC can go in any order, including at the same time. If a player rolls with hope, that player gains a hope token, and the players continue their turns. If a player rolls with fear, after that player's turn, the DM can take a turn or gain one fear token.
+		- On the players' turn, any player or friendly NPC can go in any order, including at the same time. If a player rolls with hope, that player gains a hope token, and the players continue their turns. If a player rolls with fear, after that player's turn, the DM can take a turn or gain one fear token. If the DM chooses to gain a fear token, the DM describes a small thing that causes it. For example, the enemy taunts the players.
 			- If a player casts a spell directed at an enemy, that player rolls a d20 and uses that result for their hope/fear result.
 			- A player only rolls with hope or fear once per turn. If a player has multiple attacks per turn, only the first roll counts towards hope or fear with the exception of critical hits and failures.
 		- For each action that a player takes, the DM gains one action token. On the DM's turn, the DM can use as many action tokens as are available to activate one creature. The DM must always use at least one action token on their turn. The DM can spend two action tokens to create a fear token and vice versa. Lair Actions cost two fear tokens. Legendary Actions are unaffected by this system and do not require a fear token to occur after another creature's turn, but cannot occur after a player's critical success.
@@ -72,3 +73,10 @@ tags:
 		- Athletics or Acrobatics check against the target's Acrobatics check. On a success, you have climbed onto the target and have advantage on attack rolls against it. You move with the creature. You can move around within the larger creature's space, treating the space as difficult terrain. The creature can attempt to knock you off as an action (Its Athletics check against your Athletics or Acrobatics check).
 	- Disarm
 		- A weapon attack against the target's Athletic or Acrobatics check causes the target to drop the item. On a success, the target drops the item but causes no damage. The attacker has a disadvantage if the target is holding the item with two or more hands. The target has an advantage if it is larger than the attacking creature or a disadvantage if it is smaller.
+5. DC20 Extras
+	- Spell Duels
+		- Instead of an opportunity attack, spellcasters have access to spell duels, which allow you to spend hope to attempt to counterspell a spell using your own spell. This spell must make sense to counteract the spell being cast. A contested spell check is rolled during a spell duel. If there is a tie in a spell duel, a wild magic surge happens.
+	- Multiple Casters
+		- Spellcasters who know the same spell can cast the spell together for a more powerful effect. This also works for spell duels.
+	- Spell Checks
+		- Each time you cast a spell, you roll a d20 + your spell attack bonus to set the DC for the spell. This allows for more powerful and less powerful spells on both sides of the field of combat.
